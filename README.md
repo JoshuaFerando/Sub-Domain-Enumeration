@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ## 🛠️ Usage
 1. **Prepare your wordlist** (e.g., `small.txt`) – one subdomain per line.
-2. 2. **Edit script variables** in `subdomain.py`:
+2. **Edit script variables** in `subdomain.py`:
 ```python
 url = "https://www.google.com"
 wordlist_path = "small.txt"
@@ -80,3 +80,16 @@ https://www.google.com/maps
 ```
 
 ---
+
+## Disclaimer
+
+This script is intended for educational and ethical penetration testing purposes only. Unauthorized usage against systems you do not own or have explicit permission to test is illegal.
+
+## Contribution
+
+Pull requests are welcome! Feel free to improve the script by optimizing performance or adding new features.
+
+## Author
+
+Joshua Fernando
+
